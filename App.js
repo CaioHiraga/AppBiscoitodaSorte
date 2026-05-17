@@ -28,7 +28,7 @@ class App extends Component {
 
 'Siga o caminho certo.' ,
 
-'"Bem-vindo" é uma palavra poderosa.',
+'Bem-vindo" é uma palavra poderosa.',
 
 'Quando seu coração é puro, sua mente está clara. '
     ];
